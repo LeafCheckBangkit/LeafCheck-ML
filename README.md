@@ -23,7 +23,7 @@ This link bellow is API URL to predict leaves image uploaded
 
 **Link:** https://pedict2-api-bzsfiq27ua-et.a.run.app/
 
-**Result**
+**Result:**
 This is the example result if uploaded images in API URL
 
 ![image](https://github.com/LeafCheckBangkit/LeafCheck-ML/assets/144078397/f3406e1c-4fba-437f-a733-df1ae205f002)
