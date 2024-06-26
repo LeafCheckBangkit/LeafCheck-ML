@@ -4,7 +4,7 @@ Machine Learning team developed a model to predict the health of plants through 
 ![LeafCheck (1)](https://github.com/LeafCheckBangkit/LeafCheck-ML/assets/144078397/1c984e32-27aa-4a3a-b6f1-22185bbac57c)
 
 ## LeafCheck Datasets
-For this project our team use Orange Leaves, Mango Leaves, and Apple Leaves.
+For this project our team use Orange Leaves, Mango Leaves, and Apple Leaves to build our Model.
 
 **Dataset Link:**
  [Dataset 3](https://drive.google.com/drive/folders/1kxReV_zpPnf7Xqx03U6ndvxyZDFa6pju?usp=sharing)
